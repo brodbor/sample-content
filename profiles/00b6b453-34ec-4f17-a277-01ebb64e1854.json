@@ -1,0 +1,46 @@
+{
+  "name": "Boris Brodsky",
+  "title": "Head of Data, Insights and Analytics at Zonet Digital",
+  "about": "Boris Brodsky is Zonet Digital's Head of Data, Insights and Analytics. Mr. Brodsky is responsible for driving enterprise customers' data strategy and solution architecture, focusing on analytics, data engineering, and cloud technologies. He is based out of Maryland, United States.\n\nPrior to Zonet Digital, Mr. Brodsky served as AVP of Digital at Zonet Digital from 2015 to 2021, where he led the development of digital solutions and platforms for enterprise-level clients. Before that, he was Director of Technology Leadership at Zonet Digital from 2013 to 2015, specializing in cloud-based ERP solutions and analytics. Earlier in his career, Mr. Brodsky held roles such as Digital Application Architect, Group Manager at Sitecore Architect, Co-Founder, and Manager of Web Application Development, contributing to various industries including healthcare, automotive, and energy.\n\nMr. Brodsky holds a Master's degree in Information Technology from Towson University, obtained in 2007, and a Bachelor's degree in Database Management from Towson University, obtained in 2005. He is also certified as a Sitecore 10 .NET Developer and AWS Certified Data Engineer - Associate.\n\nIn addition to his professional achievements, Mr. Brodsky is fluent in Hebrew and actively engages in technology trends and community initiatives.",
+  "contact": "",
+  "office": "Maryland, United States",
+  "imageUrl": "",
+  "email": "",
+  "phone": "",
+  "industries": [
+    "Technology",
+    "Healthcare",
+    "Automotive",
+    "Energy",
+    "Cloud Computing"
+  ],
+  "education": [
+    {
+      "degree": "Master's in Information Technology",
+      "institution": "Towson University",
+      "year": "2007",
+      "description": ""
+    },
+    {
+      "degree": "Bachelor's in Database Management",
+      "institution": "Towson University",
+      "year": "2005",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Sitecore 10 .NET Developer Certification",
+      "issuer": "Sitecore",
+      "year": "2024",
+      "description": ""
+    },
+    {
+      "name": "AWS Certified Data Engineer - Associate",
+      "issuer": "AWS",
+      "year": "2022",
+      "description": ""
+    }
+  ],
+  "id": "00b6b453-34ec-4f17-a277-01ebb64e1854"
+}
